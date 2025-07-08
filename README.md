@@ -62,16 +62,16 @@ The aim of this project is to deliver business-ready insights by transforming ra
 
 ## Integration
 
-This dashboard is an **extension** of the [SQL Data Warehouse ETL Pipeline Project](https://github.com/Seanmaraks02/sql-data-warehouse-project), which structured raw CRM and ERP data into business-ready data models using a three-layer pipeline: **Bronze → Silver → Gold**.
+This dashboard is an **extension** of the [SQL Data Warehouse ETL Pipeline Project](https://github.com/Seanmaraks02/sql_dw_project), which structured raw CRM and ERP data into business-ready data models using a three-layer pipeline: **Bronze → Silver → Gold**.
 
 ---
 
 ## 🔗 Live Dashboards on Tableau Public
 
-- 🔹 [Sales Dashboard (2011–2013)](https://public.tableau.com/views/your-sales-dashboard-link) ⭐️⭐️⭐️⭐️⭐️
+- 🔹 [Sales Dashboard (2011–2013)](https://public.tableau.com/views/SalesDash_17514129941140/salesdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⭐️⭐️⭐️⭐️⭐️
   > Explore total sales, unit trends, country performance, and product categories with clean visuals and monthly breakdowns.
 
-- 🔹 [Customer Dashboard (2011–2013)](https://public.tableau.com/views/your-customer-dashboard-link) ⭐️⭐️⭐️⭐️⭐️  
+- 🔹 [Customer Dashboard (2011–2013)](https://public.tableau.com/views/SalesDash_17514129941140/customerdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⭐️⭐️⭐️⭐️⭐️  
   > Dive into customer counts, top buyers, demographic insights, and marital status analysis—perfect for customer segmentation.
 
 ---
@@ -83,20 +83,8 @@ This dashboard is an **extension** of the [SQL Data Warehouse ETL Pipeline Proje
 | ![Sales](./screenshots/sales_dashboard.png) | ![Customer](./screenshots/customer_dashboard.png) |
 
 ---
-## Project Structure
-
-tableau-dashboard-project/
-├── screenshots/
-│ ├── sales_dashboard.png
-│ └── customer_dashboard.png
-├── README.md
-└── LICENSE
-
-
 
 > ⚠️ Dashboard `.twb` files are not included in this repository. Please use the **Tableau Public links** to interact with the dashboards.
-
-
 
 ---
 
