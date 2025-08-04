@@ -68,10 +68,10 @@ This dashboard is an **extension** of the [SQL Data Warehouse ETL Pipeline Proje
 
 ## 🔗 Live Dashboards on Tableau Public
 
-- 🔹 [Sales Dashboard (2011–2013)](https://public.tableau.com/views/SalesDash_17514129941140/salesdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⭐️⭐️⭐️⭐️⭐️
+- 🔹 [Sales Dashboard (2011–2013)](https://public.tableau.com/views/SalesDash_17543441182360/salesdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⭐️⭐️⭐️⭐️⭐️
   > Explore total sales, unit trends, country performance, and product categories with clean visuals and monthly breakdowns.
 
-- 🔹 [Customer Dashboard (2011–2013)](https://public.tableau.com/views/SalesDash_17514129941140/customerdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⭐️⭐️⭐️⭐️⭐️  
+- 🔹 [Customer Dashboard (2011–2013)](https://public.tableau.com/views/SalesDash_17543441182360/customerdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⭐️⭐️⭐️⭐️⭐️  
   > Dive into customer counts, top buyers, demographic insights, and marital status analysis—perfect for customer segmentation.
 
 ---
